@@ -1,3 +1,3 @@
 ## this is for triggering webhook
 
-## triggered time: 15
+## triggered time: 1
